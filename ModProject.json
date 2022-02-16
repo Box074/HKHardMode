@@ -1,0 +1,12 @@
+{
+  "ProjectName": "HKHardMode",
+  "ModVersion": "0.0.0.0",
+  "CodeDir": ".\\Scripts\\",
+  "EmbeddedResourceDir": ".\\EmbeddedResource\\",
+  "EmbeddedResource": {},
+  "Guid": "22c378a8-0208-4ea2-abcc-93a1e2d228f3",
+  "DependenciesDir": ".\\Dependencies\\",
+  "ModdingAPIVersion": "1.5.78.11833-67",
+  "IgnoreDlls": [],
+  "WebDependencies": []
+}
